@@ -4,9 +4,13 @@ Article Extractor and Summarizer API from RapidAPI: https://rapidapi.com/restyle
 
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Getting Started
 
-Currently, two official plugins are available:
+- Install Vite globally and create a new Vite-based React app:
+  npm install -g create-vite@latest
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Navigate to your project directory:
+  cd my-react-app
+
+- Install Redux Toolkit:
+  npm install @reduxjs/toolkit
