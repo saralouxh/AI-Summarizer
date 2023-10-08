@@ -19,7 +19,7 @@ const Hero = () => {
         <h1 className='blue_gradient'>Powered by OpenAI GPT-4</h1>
 
         <h2 className='desc'>
-          Transform the way you gather information with this article summarization tool powered by AI. Condense lengthy articles into clear and concise summaries.
+          Transform the way you read the Web with this article summarization tool powered by AI. Don't have time to skim through lengthy paragraphs of content? Instantly condense information into clear and concise summaries.
         </h2>
     </header>
   )

@@ -98,7 +98,7 @@ const Demo = () => {
             article.summary && (
               <div className=" flex flex-full gap-3">
                 <h2 className="font-satoshi font-bold text-grey-600 text-xl">
-                  Article <span className="blue_gradient">Summary</span>
+                  Article Summary
                 </h2>
                 <div className="summary_box">
                   <p className="font-inter font-medium text-sm text-gray-700">
